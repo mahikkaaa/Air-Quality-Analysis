@@ -1,7 +1,7 @@
 # Air-Quality-Analysis
 Air Quality Analysis : SDG 3 and SDG 13
 
-<img width="200" height="200" src="[https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/#iLightbox[gallery13821]/0](https://img.freepik.com/free-vector/gradient-sdg-infographic_23-2149396367.jpg?w=2000)">
+<img src="[https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/#iLightbox[gallery13821]/0](https://img.freepik.com/free-vector/gradient-sdg-infographic_23-2149396367.jpg?w=2000)">
 
 An analysis of the COVID-19's Lockdown effect on the Pollution level in Delhi
 Delhi is one of many capitals enjoying improved air quality since restrictions were introduced due to the coronavirus . A nationwide lockdown imposed across India on 24 March to stop the spread of the coronavirus – the largest lockdown of its kind attempted anywhere – has led to widespread chaos and suffering, especially among the country’s 300 million poor. Yet in Delhi, the world’s most polluted city, it has also resulted in some of the freshest air the capital has seen in decades.
