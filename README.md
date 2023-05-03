@@ -1,6 +1,6 @@
 # Air-Quality-Analysis
 
-_**Air Quality Analysis : SDG 3 and SDG 13**_
+_**Air Quality Analysis : SDG 3 & SDG 13**_
 
 <center><img src="https://www.un.org/sustainabledevelopment/wp-content/uploads/2015/12/english_SDG_17goals_poster_all_languages_with_UN_emblem_1.png"></center>
   
